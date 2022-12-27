@@ -1,4 +1,4 @@
-// Single file upload using DiskStorage engine (multer.single)
+// multiple file upload using DiskStorage engine (multer.multiple)
 const express = require('express');
 const app = express();
 const helmet = require('helmet');
